@@ -1,0 +1,9 @@
+-------
+READ ME
+-------
+This repository is for showing some code that I wrote for my project Heroic Guitar.
+This project was made using C++. The main game was created in a custom C++ game engine,
+the song creator was made using a teacher's 2D game engine (also in C++).
+
+To know a bit more about me, or about this project and the people who helped create this game,
+go to http://www.rubenwastiels.com/, and check out the HeroicGuitar-page
